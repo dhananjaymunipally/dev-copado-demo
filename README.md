@@ -1,2 +1,2 @@
-# dev-copado-demo
+# devcopadodemo
 Salesforce DevOps
